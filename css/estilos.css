@@ -1,6 +1,20 @@
-{
-    font-family: cursive,cursive;
-    color: grey;
-    background-color: darkgoldenrod;
-    tect-algin: center;
+body{
+    background-color:darkgoldenrod;
+    tect-algin:center;
+}
+h1{
+    font-family:cursive,cursive;
+    color:grey;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: aquamarine;
+}
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blueviolet;
+}
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
 }
